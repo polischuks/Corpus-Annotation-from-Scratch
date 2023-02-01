@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Corpus Annotation from Scratch/*
+!/Corpus Annotation from Scratch/task/
+/Corpus Annotation from Scratch/task/*
+!/Corpus Annotation from Scratch/task/corpus_annotation.py
+!/Corpus Annotation from Scratch/task/test
